@@ -1,0 +1,11 @@
+{
+  "title": "家人有伴｜别装了！8道题测出你的真实画风",
+  "description": "根据第一反应，做8道生活趣味题，看看你是哪种有趣画风。",
+  "share_image": "./assets/share-cover.png",
+  "link": "",
+  "wechat": "微信JS-SDK分享卡片需官方配置和域名授权；不可强行一键发表朋友圈",
+  "poster": "使用用户2026-10-30确认的8张941×1672完整PNG海报，保存原图，不重绘二维码与文字。",
+  "fallback": "微信环境引导右上角分享链接；朋友圈海报支持保存＋文案复制；所有失败提示按真实状态反馈",
+  "no_longterm_private_result_url": true,
+  "wechat_thumbnail": "./assets/share-square.png"
+}

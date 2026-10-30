@@ -1,0 +1,82 @@
+{
+  "女C": {
+    "persona": "风火轮小辣椒",
+    "src": "assets/persona/女C.png",
+    "poster": "assets/posters/女C.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "风火轮小辣椒(2).png",
+    "poster_source_filename": "风火轮小辣椒_副本(2).png",
+    "sha256": "5d67924e34a71472f95d351fdccf5c67f56424c8c57bcd97b0fee7f51c661da3",
+    "poster_sha256": "bac89f79416bc2e056f01171ad3100cc3fe80541ff97eca948edaf148b82bd0e"
+  },
+  "女S": {
+    "persona": "客厅巡演凤凰",
+    "src": "assets/persona/女S.png",
+    "poster": "assets/posters/女S.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "客厅巡演凤凰(2).png",
+    "poster_source_filename": "客厅巡演凤凰_副本(2).png",
+    "sha256": "33e3cceb434b8aabbe4e0a5758b2bc6e5a7f1ea354aeb802ce9e92ab6e3619f6",
+    "poster_sha256": "59d763b2091cff0d43dcbea7d5adf7a8909c3c2e2c126075b4477b63ccd53be7"
+  },
+  "女N": {
+    "persona": "忍者河豚",
+    "src": "assets/persona/女N.png",
+    "poster": "assets/posters/女N.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "忍者河豚(2).png",
+    "poster_source_filename": "忍者河豚_副本(2).png",
+    "sha256": "091e48ecbd0dee99ad01131dd73c113d943a6a72d077dad0234e688ec5f191b9",
+    "poster_sha256": "a314bf08e33562b37d304a0dcd67a802b2908023f7987a299df6d5c2de74446e"
+  },
+  "女L": {
+    "persona": "抱零食漂流的海獭",
+    "src": "assets/persona/女L.png",
+    "poster": "assets/posters/女L.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "抱零食漂流的海獭(2).png",
+    "poster_source_filename": "抱零食漂流的海獭_副本(2).png",
+    "sha256": "358c6cfd08d00f8f5de3d1540d3ed7da1f4b7361919c45c3776da256bdbcf8cb",
+    "poster_sha256": "5c2d6d0d18d14d2ca79a4c310df6b990c4a95386072e6a77119edc14851d9f1f"
+  },
+  "男Q": {
+    "persona": "停车场修仙老猫",
+    "src": "assets/persona/男Q.png",
+    "poster": "assets/posters/男Q.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "停车场修仙老猫(2).png",
+    "poster_source_filename": "停车场修仙老猫_副本(2).png",
+    "sha256": "fc88fba1956c21cfdcc089985d0f223f3f0d60e7672f7e3a964e614836eb0575",
+    "poster_sha256": "620c2f695fa864bfdd1cfbf95da73060f8cf6d7e70b97bfa56b0f2a4b9784894"
+  },
+  "男P": {
+    "persona": "算盘成精的河马",
+    "src": "assets/persona/男P.png",
+    "poster": "assets/posters/男P.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "算盘成精的河马(2).png",
+    "poster_source_filename": "算盘成精的河马_副本(2).png",
+    "sha256": "94e02deec84b86319ac04f5afcbe55e86c6dce78aacd783f2dd65eb22573cf3b",
+    "poster_sha256": "8a6a41b382bad0106bef22454282462afe36dbb89e77ec05a4e1e475fd88d216"
+  },
+  "男W": {
+    "persona": "保温杯熊大仙",
+    "src": "assets/persona/男W.png",
+    "poster": "assets/posters/男W.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "保温杯熊大仙(2).png",
+    "poster_source_filename": "保温杯熊大仙_副本(2).png",
+    "sha256": "05bd49c78db05db8bc0abae5e62fd96d04b61f34d472fce777688c5184d138cd",
+    "poster_sha256": "119d04c89ddc4dafe023d4b0ce66af72978ea12048a87312fabd51e93d04c0c9"
+  },
+  "男X": {
+    "persona": "返场校草",
+    "src": "assets/persona/男X.png",
+    "poster": "assets/posters/男X.png",
+    "status": "user_confirmed_20261030",
+    "source_filename": "返场校草(2).png",
+    "poster_source_filename": "返场校草_副本(2).png",
+    "sha256": "972bd5a38cd84dc96039baabfa466ab2868687a09828611c203a3b74fb9b936d",
+    "poster_sha256": "1051d4962679afbfa7a880a69205a9008d8423c43f6d6a68403e6395b1a1b07d"
+  }
+}
